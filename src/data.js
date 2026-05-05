@@ -91,7 +91,7 @@ export const portfolioData = {
             { label: "C#", value: 44, colorClass: "bg-gradient-to-r from-secondary-container to-secondary", shadowClass: "" }
         ],
         biography: {
-            title: "Origin & Directives",
+            title: "Who Am I?",
             paragraphs: [
                 "I am a Game Developer focused on building interactive games using <span class=\"text-primary-container font-code-data px-1 border border-primary-container/30 bg-primary-container/10\">Unity</span> & <span class=\"text-primary-container font-code-data px-1 border border-primary-container/30 bg-primary-container/10\">C#</span>. I enjoy working on game mechanics and turning simple ideas into playable experiences.",
                 "I'm also a PR member at <span class=\"text-primary-container font-code-data px-1 border border-primary-container/30 bg-primary-container/10\">FCAI-CU Game Development Club</span>. I try to be active and help my colleagues with any help they need.",
