@@ -84,7 +84,7 @@ export const portfolioData = {
     chronos: {
         headerTitle: "ABOUT ME",
         headerSubtitle: "MY_STORY",
-        portraitImage: "https://media.licdn.com/dms/image/v2/D4D03AQEi3KiflWXt_A/profile-displayphoto-scale_200_200/B4DZ3OUT62JsAY-/0/1777283024528?e=1778716800&v=beta&t=Qor6HqGcL7WSaekiRy0Lz0-TjUCBrOyuYnuVb2KOR9k",
+        portraitImage: "https://media.licdn.com/dms/image/v2/D4D03AQEi3KiflWXt_A/profile-displayphoto-scale_400_400/B4DZ3OUT62JsAg-/0/1777283024528?e=1779321600&v=beta&t=V1BDkMnHyF_96w1oLpRLRxjtbelOH61ePgnVWn9nCFU",
         portraitLensImage: "https://lh3.googleusercontent.com/aida-public/AB6AXuAHPHHCTkRgAj8NiiZKc2FYXYwx32pCFZfIwiTflPav7A1akwPIho-GOlzHEsEeXuyOLCZNqSvgRb55cp_aJjAfEGDQU68A78f0Kiv0mvHJeyzy29duCUHlx0zpxxAJDVTecpkNso3TlcZZaolJ26IGu6zz97zPWHizqJwaJVh7F8FdNsNVft5naBU2-uDQWW2YBm3MhgNGDM5BViu7tI3WbBL03dy6yqthRdIlralDk4qrVANGtmfJ17nz8LYtoJnW6d3sA3c61KxZ",
         metrics: [
             { label: "Unity", value: 70, colorClass: "bg-gradient-to-r from-on-tertiary-container to-primary-container", shadowClass: "shadow-[0_0_10px_rgba(0,229,255,0.8)]" },
